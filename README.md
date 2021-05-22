@@ -54,10 +54,15 @@ Tools and technologies that you learnt and used in the project.
 ## Screenshots
 These are photos of some the obstacles that the app can detect. 
 
-![image](https://drive.google.com/file/d/1htCeFaRcWhe1myNG5VzgHKvYmswVjsLI/view?usp=sharing "Screen Shot of Sofa")
+Screeshot of Sofa
 ![image](https://drive.google.com/uc?export=view&id=1htCeFaRcWhe1myNG5VzgHKvYmswVjsLI)
-![Screenshot alt text](https://drive.google.com/file/d/1Ca2lwdcj10petiduUtNiWfo8NZtCtmP3/view?usp=sharing "Screen Shot of Cat")
-![Screenshot alt text](https://drive.google.com/file/d/1fvwvLH652hczeEWgP3EO8zItMrm13oWW/view?usp=sharing "Screen Shot of Oven")
-![Screenshot alt text](https://drive.google.com/file/d/1fgO6u18Gzc-jcChBuPUxlbI5MfcjHUbK/view?usp=sharing "Screen Shot of Dog")
 
+Screenshot of cat
+![image](https://drive.google.com/uc?export=view&id=1Ca2lwdcj10petiduUtNiWfo8NZtCtmP3)
+
+Screenshot of oven
+![image](https://drive.google.com/uc?export=view&id=1fvwvLH652hczeEWgP3EO8zItMrm13oWW)
+
+Screenshot of dog
+![image](https://drive.google.com/uc?export=view&id=1fgO6u18Gzc-jcChBuPUxlbI5MfcjHUbK)
 
