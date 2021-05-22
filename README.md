@@ -22,7 +22,7 @@ Assistance is an app made for the visually impaired with a motive to give them a
 Along with this, add the link of the drive folder that contains the app APK/Screenshots/Screen Recordings. If you have hosted your project on the web, add that link as well.
 
 * GitHub repo link: [Link to repository](https://github.com/003ash/Assistance)
-* Drive link: [Drive link here](https://drive.google.com/)
+* Drive link: [Drive link here](https://drive.google.com/drive/folders/1bXCCSajTBEtCHBfvTbc10neAITBEcgiQ?usp=sharing)
 * Link for ML model: [Download the ML model using this link](https://drive.google.com/file/d/107skJf_dChg7qNPD2D2LQYdjRiFxxbIG/view?usp=sharing)
 
 ## Technology stack
@@ -52,6 +52,11 @@ Tools and technologies that you learnt and used in the project.
 >We can increase precision of the object-detection model.
 
 ## Screenshots
+These are photos of some the obstacles that the app can detect. 
+
+![Screenshot alt text](https://drive.google.com/file/d/1htCeFaRcWhe1myNG5VzgHKvYmswVjsLI/view?usp=sharing "Screen Shot of Sofa")
+![Screenshot alt text](https://drive.google.com/file/d/1Ca2lwdcj10petiduUtNiWfo8NZtCtmP3/view?usp=sharing "Screen Shot of Cat")
+![Screenshot alt text](https://drive.google.com/file/d/1fvwvLH652hczeEWgP3EO8zItMrm13oWW/view?usp=sharing "Screen Shot of Oven")
+![Screenshot alt text](https://drive.google.com/file/d/1fgO6u18Gzc-jcChBuPUxlbI5MfcjHUbK/view?usp=sharing "Screen Shot of Dog")
 
 
-![Screenshot alt text](https://edtimes.in/wp-content/uploads/2018/09/NikeMeme10-640x633.jpg "Here is a screenshot")
