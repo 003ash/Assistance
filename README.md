@@ -23,6 +23,7 @@ Along with this, add the link of the drive folder that contains the app APK/Scre
 
 * GitHub repo link: [Link to repository](https://github.com/003ash/Assistance)
 * Drive link: [Drive link here](https://drive.google.com/)
+* Link for ML model: [Download the ML model using this link](https://drive.google.com/file/d/107skJf_dChg7qNPD2D2LQYdjRiFxxbIG/view?usp=sharing)
 
 ## Technology stack
 
