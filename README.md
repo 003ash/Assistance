@@ -21,7 +21,7 @@ Assistance is an app made for the visually impaired with a motive to give them a
 
 Along with this, add the link of the drive folder that contains the app APK/Screenshots/Screen Recordings. If you have hosted your project on the web, add that link as well.
 
-* GitHub repo link: [Link to repository](https://github.com/003ash/Assistance)
+* GitHub repo link: [Link to repository](https://github.com/003ash/Assistance.git)
 * Drive link: [Drive link here](https://drive.google.com/drive/folders/1bXCCSajTBEtCHBfvTbc10neAITBEcgiQ?usp=sharing)
 * Link for ML model: [Download the ML model using this link](https://drive.google.com/file/d/107skJf_dChg7qNPD2D2LQYdjRiFxxbIG/view?usp=sharing)
 
